@@ -1,4 +1,4 @@
 Little Search Engine is a search engine implemented in Java which uses a hash table to gather and index words that appear in plain text documents.
 Users are able to utilize a hash table to search keywords and are returned a list of matching documents in which the keywords appear.
 
-// This is an academic project that was assigned in my CS112: Data Strcutures class at Rutgers University
+// This is an academic project that was assigned for the CS112: Data Strcutures class at Rutgers University
